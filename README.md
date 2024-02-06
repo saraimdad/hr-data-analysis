@@ -1,7 +1,7 @@
 # hr-data-analysis
 
 ### Project Overview
-This primary objective of this project is to delve into the intricate dynamics of employee attrition within the company. This analysis wil culminate in actionable insights that empower the company to proactively address attrition challenges and enhance employee retention strategies.
+This primary objective of this project is to delve into the intricate dynamics of employee attrition within the company. This analysis will culminate in actionable insights that empower the company to proactively address attrition challenges and enhance employee retention strategies.
 
 
 ### Data Sources
